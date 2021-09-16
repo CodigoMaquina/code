@@ -1,7 +1,7 @@
 - 👋 En @CodigoMaquina nuestra misión es compartir conocimientos sobre:
     
-        - 👀 Programación, 
+    - 👀 Programación, 
     
-        - 👀 Inteligencia Artificial y
+    - 👀 Inteligencia Artificial y
         
-        - 👀 Aprendizaje de Máquina.
+    - 👀 Aprendizaje de Máquina.

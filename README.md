@@ -5,3 +5,7 @@
     - 👀 Inteligencia Artificial y
         
     - 👀 Aprendizaje de Máquina.
+
+En está cuenta se encuentra todo el código explicado en el canal de YouTube Código Máquina https://www.youtube.com/c/CodigoMaquina/
+
+Todo el código del repositorio está organizado en función de las playlist del canal https://www.youtube.com/c/CodigoMaquina/playlists

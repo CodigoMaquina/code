@@ -1,9 +1,9 @@
 - 👋 En @CodigoMaquina nuestra misión es compartir conocimientos sobre:
     
-    - 👀 Programación, 
-    
-    - 👀 Inteligencia Artificial y
+    - 👀 Inteligencia Artificial,
         
-    - 👀 Ciencia de Datos.
+    - 👀 Ciencia de Datos y
 
+    - 👀 Programación. 
+        
 Aquí se encuentra todo el código explicado en el canal de YouTube Código Máquina https://www.youtube.com/c/CodigoMaquina/

@@ -7,3 +7,6 @@
     - 👀 Programación. 
         
 Aquí se encuentra todo el código explicado en el canal de YouTube Código Máquina https://www.youtube.com/c/CodigoMaquina/
+
+
+Mi primera contribución desde VSCode
